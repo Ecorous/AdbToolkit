@@ -1,1 +1,0 @@
-adb reboot %1
