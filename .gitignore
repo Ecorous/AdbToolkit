@@ -98,7 +98,8 @@ venv.bak/
 # Spyder project settings
 .spyderproject
 .spyproject
-
+# PyChram
+.idea
 # Rope project settings
 .ropeproject
 
