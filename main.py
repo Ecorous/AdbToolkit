@@ -1,6 +1,5 @@
 # main.py
 import PySimpleGUI as sg
-import subprocess as sp
 import os
 sg.theme('GreenMono')
 layout = [[sg.Text("If you're in the normal os, use these:")], [sg.Button("Reboot to System (adb)")],
